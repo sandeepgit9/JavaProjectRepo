@@ -13,7 +13,7 @@
 			<%= new java.util.Date() %>
 		</p>
 		
-		<div id="conrgrats..bb..."></div>
+		<div id="conrgrats on adding to git."></div>
 
 		
 	</body>
