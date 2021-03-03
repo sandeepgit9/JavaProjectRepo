@@ -3,7 +3,7 @@
 	<head>
 		<title>title - sandeep</title>
 		<%!
-			String title = "sandeep - vit edit from command line Hello World";
+			String title = "sandeep - how is it going?  Hello World";
 		%>
 	</head>
 	<body>
